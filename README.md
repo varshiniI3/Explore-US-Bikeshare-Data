@@ -1,6 +1,12 @@
 # Explore-US-Bikeshare-Data
 Python-based data analysis of bikeshare systems in Chicago, NYC, and Washington using descriptive statistics.
 
+## 🔧 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Jupyter Notebook
+
 ## 🚀 How to Run
 1. Clone the repo
 2. Run the notebook or Python script
